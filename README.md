@@ -1,1 +1,1 @@
-# -Divi-Builder-Plugin
+# Divi-Builder-Plugin
